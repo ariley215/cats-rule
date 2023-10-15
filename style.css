@@ -1,14 +1,32 @@
 /* external style sheet */
-
-body {
-  background-color: #00A36C;
+h3 {
+  color: orangered;
 }
 
-h1 {
-  padding: 10px;
+section {
+  background-color: rgb(236, 229, 110);
+}
+
+h1{
+  color: rgb(252, 1, 155);
+}
+
+h2{
+  color: rgb(220, 138, 176);  
+}
+
+footer{
+  background-color: goldenrod;
 }
   
-img {
-  display: inline-block;
+footer h2{
+  color:orangered;
 }
- 
+
+nav ul li a {
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+}
