@@ -10,11 +10,13 @@ body {
 h1{
   color: rgb(252, 1, 155);
   text-align: center;
+  font-size: 60px;
 }
 
 h2{
   color: rgb(220, 138, 176); 
   text-align: center; 
+  font-size: 42;
 }
 
 footer{
