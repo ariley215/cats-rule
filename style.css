@@ -2,25 +2,26 @@
 h3 {
   color: orangered;
 }
-
-section {
-  background-color: rgb(236, 229, 110);
+body {
+  background-color: rgb(228, 177, 83);
 }
 
 h1{
   color: rgb(252, 1, 155);
+  text-align: center;
 }
 
 h2{
-  color: rgb(220, 138, 176);  
+  color: rgb(220, 138, 176); 
+  text-align: center; 
 }
 
 footer{
-  background-color: goldenrod;
+  background-color: orangered;
 }
   
 footer h2{
-  color:orangered;
+  color: rgb(236, 229, 110);
 }
 
 nav ul li a {
@@ -30,3 +31,19 @@ nav ul li a {
 nav ul {
   list-style: none;
 }
+
+img {
+  width: 250px;
+  height: auto;
+  display: inline-block;
+  width: 40%;
+}
+section {
+  display: inline-block;
+  width: 30%;
+}
+
+nav {
+  text-align: center;
+}
+
