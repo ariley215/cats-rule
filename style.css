@@ -38,8 +38,6 @@ nav ul {
 img {
   width: 250px;
   height: auto;
-  display: inline-block;
-  width: 40%;
 }
 section {
   display: inline-block;
@@ -48,5 +46,14 @@ section {
 
 nav {
   text-align: center;
+}
+
+p img {
+  display: inline-block;
+  width: 40%;
+}
+
+#kitten-photo {
+  width: 100px;
 }
 
